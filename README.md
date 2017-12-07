@@ -21,7 +21,8 @@ steps given below:
 
 1. Open a text editor and add the code as above.
 
-2. Save the file as: Name0.cpp    you can give any name you want, just take care it should have cpp extension.
+2. Save the file as: Name0.cpp    .
+You can give any name you want, just take care it should have cpp extension.
 
 3. Open a command prompt and go to the directory where you saved the
 file.
